@@ -42,7 +42,8 @@ A retail sales dataset containing order details, product categories, regions, an
 ---
 
 ## 📷 Dashboard Preview
-(## 🛠 Tools & Technologies<img width="1364" height="759" alt="Screenshort_dashboard" src="https://github.com/user-attachments/assets/798c1ca3-ae58-4bf5-99f9-3de38d69cb8f" />)
+
+<img width="1364" height="759" alt="Screenshort_dashboard" src="https://github.com/user-attachments/assets/2cd37c02-f504-4086-b21f-20edbbd52381" />
 
 ---
 

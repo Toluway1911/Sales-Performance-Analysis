@@ -5,7 +5,8 @@ This project analyses retail sales data to uncover trends, evaluate business per
 
 ---
 
-## 🛠 Tools & Technologies
+## 🛠 Tools & Technologies<img width="1364" height="759" alt="Screenshort_dashboard" src="https://github.com/user-attachments/assets/798c1ca3-ae58-4bf5-99f9-3de38d69cb8f" />
+
 - Excel (Data Cleaning, Feature Engineering, Pivot Tables)
 - Power BI (Dashboard Development & Data Visualisation)
 - SQL Concepts (Data aggregation and analysis thinking)
